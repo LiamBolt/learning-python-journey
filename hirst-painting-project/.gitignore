@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.env
+.venv
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+*.jpg
+*.png
+*.gif
+output/
+test_images/
+!example_spot_painting.jpg  # Include example image for README
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Documentation
+docs/_build/ 

@@ -1,0 +1,5 @@
+colorgram.py==1.2.0
+Pillow>=9.0.0  # Required by colorgram
+pytest>=7.0.0  # For running tests
+flake8>=4.0.0  # For code quality checks
+black>=22.0.0  # For code formatting
