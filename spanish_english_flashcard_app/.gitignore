@@ -1,0 +1,13 @@
+# Project specific
+data/words_to_learn.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+
+# IDE specific
+.idea/
+.vscode/
